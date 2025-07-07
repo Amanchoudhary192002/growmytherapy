@@ -15,7 +15,7 @@ export default function Home() {
         <div id="about"><About /></div>
         <div id="services"><Services /></div>
         <div id="faq"><FAQ /></div>
-        <div id="contact"><Contact /></div>
+        <div id="contact"><Contact1 /></div>
       </main>
     </>
   );
