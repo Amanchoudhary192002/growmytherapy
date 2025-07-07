@@ -33,7 +33,7 @@ export default function Navbar() {
           <li><a href="#about" onClick={toggleMenu}>About</a></li>
           <li><a href="#services" onClick={toggleMenu}>Services</a></li>
           <li><a href="#faq" onClick={toggleMenu}>FAQ</a></li>
-          <li><a href="#contact" onClick={toggleMenu}>Contact</a></li>
+          <li><a href="#contact" onClick={toggleMenu}>Contact1</a></li>
         </ul>
       )}
     </header>
