@@ -12,7 +12,7 @@ export default function About() {
             />
           </div>
           <div className="mt-3 text-sm bg-white p-2 rounded shadow text-center">
-            <strong>Dr. Aman Choudhary</strong><br />
+            <strong>Dr. Serena Blake</strong><br />
             Clinical Psychologist<br />
             ⭐ 8 Years Experience
           </div>

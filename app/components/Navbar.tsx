@@ -23,7 +23,7 @@ export default function Navbar() {
           <li><a href="#about" className="hover:text-blue-600">About</a></li>
           <li><a href="#services" className="hover:text-blue-600">Services</a></li>
           <li><a href="#faq" className="hover:text-blue-600">FAQ</a></li>
-          <li><a href="#contact" className="hover:text-blue-600">Contact</a></li>
+          <li><a href="#contact" className="hover:text-blue-600">Contact-form</a></li>
         </ul>
       </nav>
 
@@ -33,7 +33,7 @@ export default function Navbar() {
           <li><a href="#about" onClick={toggleMenu}>About</a></li>
           <li><a href="#services" onClick={toggleMenu}>Services</a></li>
           <li><a href="#faq" onClick={toggleMenu}>FAQ</a></li>
-          <li><a href="#contact" onClick={toggleMenu}>Contact1</a></li>
+          <li><a href="#contact" onClick={toggleMenu}>Contact</a></li>
         </ul>
       )}
     </header>
